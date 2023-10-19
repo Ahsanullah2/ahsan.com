@@ -1,0 +1,8 @@
+.container #service .box{
+  flex-wrap: wrap ;
+ 
+}
+.navbar ul li a{
+  flex-wrap: wrap;
+  flex-direction: column;
+} 
